@@ -10,7 +10,8 @@ Certain sorting algorithms that are included in this are:
 - Bubble Sort
 - Heap Sort
 - Selection Sort
-- 
+- Quick Sort
+- Insertion Sort
 
 ## Features
 * A smooth user experience for users to understand how certain sorting algorithms work
